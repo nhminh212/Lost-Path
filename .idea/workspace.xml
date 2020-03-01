@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e1e7eea-2deb-4cf5-ba4d-335ece789197" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Uk2D51qJKuOJt27F0spxRFLfAk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Game" sdk-home="C:\Users\Sin\AppData\Local\Programs\Python\Python37-32\python.exe">
+        <option name="mySdkHome" value="C:\Users\Sin\AppData\Local\Programs\Python\Python37-32\python.exe" />
+        <option name="myModuleName" value="Game" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Level_1 (1)">
+    <configuration name="Level_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Level_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sin\PycharmProjects\Game\Level_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mario_level_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Mario-Level-1-master/Mario-Level-1-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Mario-Level-1-master/Mario-Level-1-master/mario_level_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Level_1 (1)" />
+        <item itemvalue="Python.Level_1" />
+        <item itemvalue="Python.mario_level_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1e7eea-2deb-4cf5-ba4d-335ece789197" name="Default Changelist" comment="" />
+      <created>1575886149793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575886149793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575914009654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575914009654" />
+    <state x="725" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575913981227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575913981227" />
+    <state x="1224" y="427" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1576065642967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1224" y="427" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576065642967" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1575914000343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575914000343" />
+    <state width="912" height="344" key="GridCell.Tab.0.bottom" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state width="912" height="344" key="GridCell.Tab.0.center" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state width="912" height="344" key="GridCell.Tab.0.left" timestamp="1576092089239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089239" />
+    <state width="912" height="344" key="GridCell.Tab.0.right" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state width="912" height="344" key="GridCell.Tab.1.bottom" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state width="912" height="344" key="GridCell.Tab.1.center" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state width="912" height="344" key="GridCell.Tab.1.left" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state width="912" height="344" key="GridCell.Tab.1.right" timestamp="1576092089240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576092089240" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1575914023789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575914023789" />
+    <state x="353" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1575913318295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="353" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575913318295" />
+    <state x="1018" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576039169206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1018" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1576039169206" />
+    <state x="498" y="215" width="737" height="596" key="find.popup" timestamp="1576079405090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="498" y="215" width="737" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576079405090" />
+    <state x="1110" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576032712327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1110" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576032712327" />
+  </component>
+</project>
